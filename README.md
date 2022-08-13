@@ -1,6 +1,6 @@
 # Welcome to Sharath-Chandra's-Portfolio
 
-#Portfolio:
+# Portfolio:
 
 List of Projects for portfolio
 
@@ -59,14 +59,12 @@ Project is in the below path:
 https://github.com/SharathChandraTummanapally/Sharath-Chandra-Portfolio/tree/main/DogeCoin%20Cryptocurrency%20Price%20Prediction
 
 
-
-#About Me.
+# About Me
 
 I am Sharath Chandra Tummanapally. I work as a Scrum Master in Discover Financial Services. I live in Wheeling, Illinois. I am married and recently blessed with a beautiful angel. With more than 13 years of experience in IT, I was involved in software development projects for various global banks. 
  
 With my experience in banking systems of these various banks and the huge data involved, I have always been passionate about the data. Also, I have always enjoyed problem-solving and statistical analysis, which led my interest in data science. It was a big step but with the support of my family, I decided to take the program in Masters of Data Science. 
 
-Contact Info:
+# Contact Info:
 Sharathc77@gmail.com
 
-![image](https://user-images.githubusercontent.com/85579587/184515384-686a97de-7dc2-4a80-a662-43ee95ffd11d.png)
