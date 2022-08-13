@@ -1,3 +1,8 @@
+### Project Description:
+   This application forecasts the current weather conditions in detail on search by cityname or zipcode.
+
+---
+
 ### Packages needed to be installed for this project:
 - Requests
    > Command: pip3 install requests
